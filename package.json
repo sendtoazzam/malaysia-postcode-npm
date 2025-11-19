@@ -1,6 +1,6 @@
 {
   "name": "npm-malaysia-postcodes",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A comprehensive list of Malaysia postcodes with city and state information in JSON format",
   "main": "index.js",
   "type": "commonjs",
@@ -17,16 +17,16 @@
     "geography",
     "address"
   ],
-  "author": "Asyraf Hussin",
+  "author": "xavier iv",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sendtoazzam/npm-malaysia-postcodes.git"
+    "url": "git@github.com:sendtoazzam/malaysia-postcode-npm.git"
   },
   "bugs": {
-    "url": "https://github.com/sendtoazzam/npm-malaysia-postcodes/issues"
+    "url": "https://github.com/sendtoazzam/malaysia-postcode-npm/issues"
   },
-  "homepage": "https://github.com/sendtoazzam/npm-malaysia-postcodes#readme",
+  "homepage": "https://github.com/sendtoazzam/malaysia-postcode-npm#readme",
   "files": [
     "index.js",
     "*.json",
